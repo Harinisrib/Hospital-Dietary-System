@@ -1,0 +1,101 @@
+ingredient_name,allergen_family,initial_confidence,regulatory_framework
+Cow's Milk (பசும்பால்),dairy,0.96,FDA Major 9 / FSSAI
+Curd / Thayir (தயிர்),dairy,0.98,FDA Major 9 / FSSAI
+Ghee / Neyyi (நெய்),dairy,0.96,FDA Major 9 / FSSAI
+Buttermilk / Mor (மோர்),dairy,0.99,FDA Major 9 / FSSAI
+Paneer (பனீர்),dairy,0.92,FDA Major 9 / FSSAI
+Fresh Cream,dairy,0.88,FDA Major 9 / FSSAI
+Skimmed Milk Powder,dairy,0.44,FDA Major 9 / FSSAI
+Groundnut / Peanut (வேர்க்கடலை),peanuts,0.98,FDA Major 9 / FSSAI
+Groundnut Oil (கடலை எண்ணெய்),peanuts,0.97,FDA Major 9 / FSSAI
+Roasted Peanut Powder,peanuts,0.46,FDA Major 9 / FSSAI
+Cashew Nut / Munthiri (முந்திரி),tree_nuts,0.97,FDA Major 9 / FSSAI
+Almond / Badam (பாதாம்),tree_nuts,0.95,FDA Major 9 / FSSAI
+Walnut / Akroot (அக்ரூட்),tree_nuts,0.88,FDA Major 9 / FSSAI
+Pistachio / Pista (பிஸ்தா),tree_nuts,0.86,FDA Major 9 / FSSAI
+Whole Wheat Flour / Atta (கோதுமை மாவு),gluten,0.98,FDA Major 9 / FSSAI
+Samba Broken Wheat / Godhumai Rava (சம்பா ரவை),gluten,0.97,FDA Major 9 / FSSAI
+Sooji Rava / Semolina (ரவை),gluten,0.95,FDA Major 9 / FSSAI
+Barley Flour (பார்லி மாவு),gluten,0.90,FDA Major 9 / FSSAI
+Oats (ஓட்ஸ்),gluten,0.94,FDA Major 9 / FSSAI
+Wheat Bran (கோதுமை தவிடு),gluten,0.89,FDA Major 9 / FSSAI
+Country Boiled Egg (நாட்டுக்கோழி முட்டை),eggs,0.99,FDA Major 9 / FSSAI
+Egg White (முட்டை வெண்கரு),eggs,0.99,FDA Major 9 / FSSAI
+Whole Egg (முட்டை),eggs,0.98,FDA Major 9 / FSSAI
+Egg Yolk (முட்டை மஞ்சள் கரு),eggs,0.96,FDA Major 9 / FSSAI
+Prawn / Eral (இறால்),shellfish,0.98,FDA Major 9 / FSSAI
+Crab / Nandu (நண்டு),shellfish,0.92,FDA Major 9 / FSSAI
+Seer Fish / Vanjaram (வஞ்சரம் மீன்),fish,0.98,FDA Major 9 / FSSAI
+Sankara Fish (சங்கரா மீன்),fish,0.95,FDA Major 9 / FSSAI
+Rohu / Fresh Water Fish (கெண்டை மீன்),fish,0.91,FDA Major 9 / FSSAI
+Dry Salted Fish (கருவாடு),fish,0.38,FDA Major 9 / FSSAI
+Soya Chunks / Mealmaker (மீல்மேக்கர்),soy,0.95,FDA Major 9 / FSSAI
+Soya Flour (சோயா மாவு),soy,0.88,FDA Major 9 / FSSAI
+Soy Milk,soy,0.85,FDA Major 9 / FSSAI
+Commercial Soy Protein Isolate,soy,0.48,FDA Major 9 / FSSAI
+Gingelly / Sesame Oil (நல்லெண்ணெய்),sesame,0.99,FDA Major 9 / FSSAI
+Sesame Seeds / Ellu (எள்ளு),sesame,0.97,FDA Major 9 / FSSAI
+Mustard Seeds / Kadugu (கடுகு),mustard,0.99,Extended FSSAI/EU Clinical Reference
+Mustard Paste,mustard,0.85,Extended FSSAI/EU Clinical Reference
+Celery,celery,0.82,Extended EU Clinical Reference
+Lupine Flour,lupine,0.76,Extended EU Clinical Reference
+Sulphite Preservative,sulphites,0.70,Extended FDA/EU Clinical Reference
+Ponni Boiled Rice (பொன்னி புழுங்கல் அரிசி),none,1.00,Therapeutic Cereal / Safe
+Raw Rice / Pacharisi (பச்சரிசி),none,1.00,Therapeutic Cereal / Safe
+Brown Rice / Kaikuthal Arisi (கைக்குத்தல் அரிசி),none,1.00,Therapeutic Cereal / Safe
+Black Kavuni Rice (கருப்பு கவுனி அரிசி),none,1.00,Therapeutic Cereal / Safe
+Kuthiraivali / Barnyard Millet (குதிரைவாலி),none,1.00,Therapeutic Ancient Millet / Safe
+Samai / Little Millet (சாமை),none,1.00,Therapeutic Ancient Millet / Safe
+Varagu / Kodo Millet (வரகு),none,1.00,Therapeutic Ancient Millet / Safe
+Thinai / Foxtail Millet (தினை),none,1.00,Therapeutic Ancient Millet / Safe
+Kambu / Pearl Millet (கம்பு),none,1.00,Therapeutic Ancient Millet / Safe
+Ragi Flour / Kezhvaragu (கேழ்வரகு மாவு),none,1.00,Therapeutic Ancient Millet / Safe
+Aval / Poha / Flattened Rice (அவல்),none,1.00,Therapeutic Cereal / Safe
+Toor Dal / Thuvaram Paruppu (துவரம் பருப்பு),none,1.00,Therapeutic Pulse / Safe
+Moong Dal / Pasi Paruppu (பாசிப்பருப்பு),none,1.00,Therapeutic Pulse / Safe
+Urad Dal / Ulundhu (உளுந்து),none,1.00,Therapeutic Pulse / Safe
+Chana Dal / Kadalai Paruppu (கடலைப்பருப்பு),none,1.00,Therapeutic Pulse / Safe
+Chickpeas / Kondakadalai (கொண்டைக்கடலை),none,1.00,Therapeutic Pulse / Safe
+Green Gram / Pasi Payaru (பாசிப்பயறு),none,1.00,Therapeutic Pulse / Safe
+Horse Gram / Kollu (கொள்ளு),none,1.00,Therapeutic Pulse / Safe
+Cowpeas / Karamani (காராமணி),none,1.00,Therapeutic Pulse / Safe
+Drumstick / Murungakkai (முருங்கைக்காய்),none,1.00,Clinical Vegetable / Safe
+Spinach / Keerai (கீரை),none,1.00,Clinical Vegetable / Safe
+Moringa Leaves / Murungai Keerai (முருங்கைக்கீரை),none,1.00,Clinical Vegetable / Safe
+Bottle Gourd / Sorakkai (சுரைக்காய்),none,1.00,Clinical Vegetable / Safe
+Snake Gourd / Pudalangai (புடலங்காய்),none,1.00,Clinical Vegetable / Safe
+Ridge Gourd / Peerkangai (பீர்க்கங்காய்),none,1.00,Clinical Vegetable / Safe
+Ash Gourd / Neer Poosanikai (வெண்பூசணி),none,1.00,Clinical Vegetable / Safe
+Bitter Gourd / Pavakkai (பாகற்காய்),none,1.00,Clinical Vegetable / Safe
+Carrots,none,1.00,Clinical Vegetable / Safe
+Green Beans,none,1.00,Clinical Vegetable / Safe
+Beetroot,none,1.00,Clinical Vegetable / Safe
+Tomato,none,1.00,Clinical Vegetable / Safe
+Potatoes,none,1.00,Clinical Vegetable / Safe
+Raw Banana / Vazhaikkai (வாழைக்காய்),none,1.00,Clinical Vegetable / Safe
+Banana Stem / Vazhaithandu (வாழைத்தண்டு),none,1.00,Clinical Vegetable / Safe
+Banana Flower / Vazhaipoo (வாழைப்பூ),none,1.00,Clinical Vegetable / Safe
+Ladies Finger / Vendakkai (வெண்டைக்காய்),none,1.00,Clinical Vegetable / Safe
+Cabbage / Muttaikose (முட்டைக்கோஸ்),none,1.00,Clinical Vegetable / Safe
+Cauliflower,none,1.00,Clinical Vegetable / Safe
+Ginger / Inji (இஞ்சி),none,1.00,Digestive Herb / Safe
+Garlic / Poondu (பூண்டு),none,1.00,Digestive Herb / Safe
+Curry Leaves / Karuveppilai (கருவேப்பிலை),none,1.00,Digestive Herb / Safe
+Coriander Leaves / Kothamalli (கொத்தமல்லி),none,1.00,Digestive Herb / Safe
+Black Pepper / Milagu (மிளகு),none,1.00,Digestive Herb / Safe
+Cumin / Jeeragam (சீரகம்),none,1.00,Digestive Herb / Safe
+Fenugreek / Vendhayam (வெந்தயம்),none,1.00,Digestive Herb / Safe
+Turmeric / Manjal (மஞ்சள்),none,1.00,Digestive Herb / Safe
+Asafoetida / Perungayam (பெருங்காயம்),none,1.00,Digestive Herb / Safe
+Tamarind / Puli (புளி),none,1.00,Digestive Herb / Safe
+Cardamom / Elakkai (ஏலக்காய்),none,1.00,Digestive Herb / Safe
+Coriander Seeds / Dhaniya (மல்லி விதை),none,1.00,Digestive Herb / Safe
+Coconut Milk (தேங்காய்ப்பால்),none,1.00,Lipid / Safe
+Fresh Grated Coconut (தேங்காய்த்துருவல்),none,1.00,Lipid / Safe
+Country Chicken (நாட்டுக்கோழி),none,1.00,Clean Protein / Safe
+Banana / Vazhaipazham (வாழைப்பழம்),none,1.00,Fruit / Safe
+Nendran Banana (நேந்திரம் பழம்),none,1.00,Fruit / Safe
+Pomegranate / Mathulai (மாதுளை),none,1.00,Fruit / Safe
+Papaya / Pappali (பப்பாளி),none,1.00,Fruit / Safe
+Apple,none,1.00,Fruit / Safe
+Guava / Koyyappazham (கொய்யாப்பழம்),none,1.00,Fruit / Safe

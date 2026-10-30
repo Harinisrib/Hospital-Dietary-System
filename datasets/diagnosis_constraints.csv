@@ -1,0 +1,13 @@
+diagnosis,priority_tier,sodium,sugar,protein,potassium,fluid,clinical_rationale
+Baseline / Healthy,0,normal,normal,normal,normal,normal,Standard baseline maintenance
+Chronic Kidney Disease,1,restricted,normal,low,low,restricted,Glomerular filtration preservation and fluid retention prevention
+Type 2 Diabetes,1,normal,low,normal,normal,normal,Glycemic control and HbA1c stabilization
+Hypertension,1,low,normal,normal,normal,normal,Vascular resistance reduction through dietary sodium moderation
+Congestive Heart Failure,1,restricted,normal,normal,normal,restricted,Ventricular preload optimization and pulmonary congestion mitigation
+Liver Cirrhosis,1,restricted,normal,normal,normal,low,Ascites reduction and portal hypertension control
+Nephrotic Syndrome,1,restricted,normal,normal,normal,low,Edema management and proteinuria control
+Protein-Energy Malnutrition,1,normal,normal,high,normal,normal,Lean muscle repletion and nitrogen balance restoration
+Post-Cardiac Surgery,2,low,normal,high,normal,normal,Surgical wound healing tissue repletion while controlling vascular strain
+Acute Pancreatitis,2,normal,low,low,normal,high,Pancreatic enzyme secretion minimization with hydration support
+Burn Injury Recovery,2,normal,normal,high,normal,high,Hypermetabolic state mitigation and extensive re-epithelialization
+Sepsis Recovery,2,normal,normal,high,normal,normal,Catabolic loss recovery and immune system cellular replenishment

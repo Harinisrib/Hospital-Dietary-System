@@ -1,0 +1,5 @@
+family_a,family_b,clinical_evidence,homologous_protein_basis
+peanuts,tree_nuts,High Clinical Homology (EAACI/AAAAI),Vicilin and Legumin seed storage proteins (Ara h 1 / Ara h 2 cross-reactivity with Cor a 9 / Jug r 1)
+soy,peanuts,Moderate Clinical Cross-Reactivity (AAAAI),Gly m 4 and Bet v 1 PR-10 related protein homology
+soy,lupine,High Clinical Cross-Reactivity (EAACI/FDA),Conglutin seed storage proteins (Lup an 1 / Gly m 5)
+crustaceans,crustaceans,High Clinical Cross-Reactivity (EAACI/World Allergy Org),Tropomyosin epitope homology (Pen a 1 / Cra c 1 across shrimp and crab)

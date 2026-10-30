@@ -1,0 +1,123 @@
+patient_id,name,age,gender,ward,bed_no,diagnosis,diet_type,allergies_with_severity,admitted_on,dataset_nature
+1,Aarthi Rajan,52,F,A,101,Type 2 Diabetes with Peripheral Neuropathy,diabetic,peanuts:severe,2026-10-01,SYNTHETIC_SIMULATED
+2,Balu Krishnan,67,M,A,102,Chronic Kidney Disease Stage 3,renal,shellfish:moderate; fish:mild,2026-10-18,SYNTHETIC_SIMULATED
+3,Indira Mani,65,F,A,103,Osteoporosis & Calcium Deficiency,regular,none,2026-10-07,SYNTHETIC_SIMULATED
+4,Jagannath Rao,37,M,A,104,Microcytic Hypochromic Anemia,high-protein,soy:mild,2026-10-24,SYNTHETIC_SIMULATED
+5,Radha Krishnaswamy,61,F,A,105,Hypothyroidism & Hypercholesterolemia,regular,soy:moderate,2026-10-13,SYNTHETIC_SIMULATED
+6,Suresh Babu,47,M,A,106,Acute Relapsing Pancreatitis,liquid,none,2026-10-02,SYNTHETIC_SIMULATED
+7,Zahra Siddiqui,42,F,A,107,Multiple Sclerosis Convalescence,regular,gluten:moderate; dairy:mild,2026-10-19,SYNTHETIC_SIMULATED
+8,Annamalai G,59,M,A,108,Diabetic Foot Ulcer Grade 2,diabetic,shellfish:severe,2026-10-08,SYNTHETIC_SIMULATED
+9,Senthilvel M,54,M,A,109,Type 2 Diabetes Mellitus with Ketoacidosis Recovery,diabetic,tree_nuts:moderate,2026-10-25,SYNTHETIC_SIMULATED
+10,Alamelu Mangai,63,F,A,110,Generalized Edema & Hypoalbuminemia,high-protein,none,2026-10-14,SYNTHETIC_SIMULATED
+11,Thirunavukkarasu P,58,M,A,111,Uncontrolled Hypertension with Essential Tremors,low-sodium,peanuts:mild,2026-10-03,SYNTHETIC_SIMULATED
+12,Priya Dharshini,29,F,A,112,Severe Nutritional Anemia & Thrombocytopenia,high-protein,none,2026-10-20,SYNTHETIC_SIMULATED
+13,Gowrishankar K,49,M,A,113,Metabolic Syndrome & Fatty Liver Grade 2,diabetic,dairy:moderate,2026-10-09,SYNTHETIC_SIMULATED
+14,Subbalakshmi T,70,F,A,114,Dehydration & Hyponatremia,regular,none,2026-10-26,SYNTHETIC_SIMULATED
+15,Balamurugan S,38,M,A,115,Viral Hepatitis A with Jaundice,liquid,shellfish:severe,2026-10-15,SYNTHETIC_SIMULATED
+16,Chitradevi N,44,F,A,116,Pre-Diabetic Impaired Glucose Tolerance,diabetic,none,2026-10-04,SYNTHETIC_SIMULATED
+17,Chitra Nair,34,F,B,201,Celiac Sprue with Severe Malabsorption,regular,gluten:severe,2026-10-21,SYNTHETIC_SIMULATED
+18,Deepak Menon,45,M,B,202,Essential Hypertension & Stable Angina,low-sodium,dairy:mild,2026-10-10,SYNTHETIC_SIMULATED
+19,Kavitha Sharma,50,F,B,203,GERD with Hiatus Hernia,soft,gluten:moderate; dairy:mild,2026-10-27,SYNTHETIC_SIMULATED
+20,Lakshmanan S,72,M,B,204,Congestive Heart Failure NYHA Class III,low-sodium,shellfish:moderate,2026-10-16,SYNTHETIC_SIMULATED
+21,Thenmozhi V,39,F,B,205,Cardiometabolic Syndrome with Insulin Resistance,diabetic,dairy:severe,2026-10-05,SYNTHETIC_SIMULATED
+22,Uday Shankar,53,M,B,206,Gouty Arthritis with Hyperuricemia,low-sodium,shellfish:severe; fish:moderate,2026-10-22,SYNTHETIC_SIMULATED
+23,Bhavani Devi,74,F,B,207,Atrial Fibrillation Post-Cardioversion,regular,none,2026-10-11,SYNTHETIC_SIMULATED
+24,Chandramohan R,48,M,B,208,Coronary Artery Disease Triple Vessel Post-PTCA,low-sodium,peanuts:moderate; tree_nuts:mild,2026-10-28,SYNTHETIC_SIMULATED
+25,Venkataraman K,68,M,B,209,Aortic Valve Replacement Day 4 Post-Op,soft,fish:moderate,2026-10-17,SYNTHETIC_SIMULATED
+26,Shanthi Natarajan,60,F,B,210,Refractory Hypertension & Left Ventricular Hypertrophy,low-sodium,none,2026-10-06,SYNTHETIC_SIMULATED
+27,Muthukumar C,51,M,B,211,Acute Coronary Syndrome Post-Stent Insertion,low-sodium,gluten:mild,2026-10-23,SYNTHETIC_SIMULATED
+28,Karpagam V,66,F,B,212,Dilated Cardiomyopathy with Fluid Retention,low-sodium,tree_nuts:severe,2026-10-12,SYNTHETIC_SIMULATED
+29,Rajasekaran D,57,M,B,213,Peripheral Arterial Disease,diabetic,none,2026-10-01,SYNTHETIC_SIMULATED
+30,Meenakshi Sundaram,62,F,B,214,Post-CABG Convalescent Nutrition Care,soft,eggs:moderate,2026-10-18,SYNTHETIC_SIMULATED
+31,Dhanasekaran G,46,M,B,215,Hypertrophic Obstructive Cardiomyopathy,low-sodium,none,2026-10-07,SYNTHETIC_SIMULATED
+32,Anuradha Raghavan,53,F,B,216,Chronic Ischemic Heart Disease,low-sodium,dairy:mild,2026-10-24,SYNTHETIC_SIMULATED
+33,Eswari Pillai,71,F,C,301,Post-Op Live Donor Renal Transplant Day 5,soft,tree_nuts:severe; peanuts:moderate,2026-10-13,SYNTHETIC_SIMULATED
+34,Farooq Ahmed,29,M,C,302,Nephrotic Syndrome with Severe Proteinuria,high-protein,none,2026-10-02,SYNTHETIC_SIMULATED
+35,Meera Chandran,26,F,C,303,Laparoscopic Nephrectomy Post-Op,liquid,none,2026-10-19,SYNTHETIC_SIMULATED
+36,Naresh Patel,55,M,C,304,Bilateral Ureteric Calculi with Hydronephrosis,renal,tree_nuts:mild,2026-10-08,SYNTHETIC_SIMULATED
+37,Vanitha Gopalan,44,F,C,305,End-Stage Renal Disease on Maintenance Hemodialysis,renal,peanuts:mild,2026-10-25,SYNTHETIC_SIMULATED
+38,Waqar Hussain,36,M,C,306,HIV Nephropathy with Muscle Wasting,high-protein,tree_nuts:moderate,2026-10-14,SYNTHETIC_SIMULATED
+39,Divya Lakshmi,31,F,C,307,Gestational Pyelonephritis & Proteinuria,renal,fish:mild,2026-10-03,SYNTHETIC_SIMULATED
+40,Elavarasan T,63,M,C,308,Diabetic Glomerulosclerosis Stage 4,renal,eggs:severe; dairy:moderate,2026-10-20,SYNTHETIC_SIMULATED
+41,Sridhar Krishnamoorthy,58,M,C,309,Polycystic Kidney Disease with Renal Impairment,renal,soy:mild,2026-10-09,SYNTHETIC_SIMULATED
+42,Padmavathi R,69,F,C,310,Chronic Tubulointerstitial Nephritis,renal,none,2026-10-26,SYNTHETIC_SIMULATED
+43,Kannan Swaminathan,47,M,C,311,Renal Tubular Acidosis with Hypokalemia,renal,shellfish:severe,2026-10-15,SYNTHETIC_SIMULATED
+44,Revathi Chandrasekhar,52,F,C,312,Post-Peritoneal Dialysis Catheter Insertion,soft,dairy:moderate,2026-10-04,SYNTHETIC_SIMULATED
+45,Gunasekaran M,61,M,C,313,Benign Prostatic Hyperplasia with Urinary Retention,regular,none,2026-10-21,SYNTHETIC_SIMULATED
+46,Mohana Soundari,43,F,C,314,IgA Nephropathy Flare,renal,gluten:severe,2026-10-10,SYNTHETIC_SIMULATED
+47,Jeyachandran K,50,M,C,315,Glomerulonephritis with Microscopic Hematuria,renal,none,2026-10-27,SYNTHETIC_SIMULATED
+48,Padmini Natarajan,73,F,C,316,Hypertensive Nephrosclerosis,renal,peanuts:moderate,2026-10-16,SYNTHETIC_SIMULATED
+49,Geetha Suresh,58,F,D,401,Type 1 Diabetes with Gastroparesis,diabetic,eggs:moderate,2026-10-05,SYNTHETIC_SIMULATED
+50,Hari Venkat,43,M,D,402,Decompensated Liver Cirrhosis with Ascites,regular,shellfish:severe,2026-10-22,SYNTHETIC_SIMULATED
+51,Omana Kutty,80,F,D,403,Pseudobulbar Palsy with Oropharyngeal Dysphagia,soft,eggs:mild; dairy:moderate,2026-10-11,SYNTHETIC_SIMULATED
+52,Pradeep Kumar,33,M,D,404,Active Ulcerative Colitis Pancolitis,soft,gluten:severe; soy:moderate,2026-10-28,SYNTHETIC_SIMULATED
+53,Xavier Mathew,68,M,D,405,Chronic Obstructive Pulmonary Disease with Sarcopenia,regular,fish:severe,2026-10-17,SYNTHETIC_SIMULATED
+54,Yamini Seshadri,27,F,D,406,Crohns Disease Terminal Ileitis Flare,high-protein,none,2026-10-06,SYNTHETIC_SIMULATED
+55,Karthik Subbaraman,35,M,D,407,Acute Perforated Appendicitis Post-Op Day 2,liquid,dairy:moderate,2026-10-23,SYNTHETIC_SIMULATED
+56,Selvi Murugan,49,F,D,408,Cholelithiasis with Obstructive Jaundice,low-sodium,peanuts:severe,2026-10-12,SYNTHETIC_SIMULATED
+57,Dharmalingam P,64,M,D,409,Laparoscopic Inguinal Hernia Repair Post-Op,soft,none,2026-10-01,SYNTHETIC_SIMULATED
+58,Punitha Varadarajan,41,F,D,410,Gastrointestinal Bleeding Stabilization,liquid,gluten:moderate,2026-10-18,SYNTHETIC_SIMULATED
+59,Shanmugam A,56,M,D,411,Colorectal Carcinoma Post-Anterior Resection Day 4,soft,shellfish:severe,2026-10-07,SYNTHETIC_SIMULATED
+60,Kasthuri Bai,72,F,D,412,Small Bowel Obstruction Conservative Recovery,liquid,none,2026-10-24,SYNTHETIC_SIMULATED
+61,Balasubramaniam S,53,M,D,413,Erosive Duodenitis with H. Pylori Infection,soft,dairy:mild,2026-10-13,SYNTHETIC_SIMULATED
+62,Vasantha Kumari,67,F,D,414,Post-Cholecystectomy Bile Leak Monitoring,liquid,tree_nuts:moderate,2026-10-02,SYNTHETIC_SIMULATED
+63,Govindarajalu R,45,M,D,415,Subacute Intestinal Obstruction Resolved,soft,none,2026-10-19,SYNTHETIC_SIMULATED
+64,Indumathi Saravanan,38,F,D,416,Severe Diverticulitis Recovery,soft,peanuts:mild,2026-10-08,SYNTHETIC_SIMULATED
+65,Sundaramoorthy N,78,M,E,501,Advanced Parkinsonism with Choking Episodes,soft,tree_nuts:moderate,2026-10-25,SYNTHETIC_SIMULATED
+66,Kalyani Ammal,82,F,E,502,Senile Osteoarthritis & Protein Calorie Malnutrition,soft,dairy:mild,2026-10-14,SYNTHETIC_SIMULATED
+67,Ramasamy Pillai,85,M,E,503,Congestive Heart Failure with Cognitive Decline,low-sodium,shellfish:severe,2026-10-03,SYNTHETIC_SIMULATED
+68,Parvathy S,76,F,E,504,Intertrochanteric Femur Fracture Post-Arthroplasty,regular,none,2026-10-20,SYNTHETIC_SIMULATED
+69,Narayanan Swamy,81,M,E,505,Diabetic Vascular Disease with Sarcopenia,renal,peanuts:mild,2026-10-09,SYNTHETIC_SIMULATED
+70,Meenakshi Aachi,87,F,E,506,Vascular Dementia with Poor Oral Intake,soft,dairy:moderate,2026-10-26,SYNTHETIC_SIMULATED
+71,Gopalakrishnan T,79,M,E,507,Post-Stroke Hemiplegia Bedbound Care,soft,eggs:severe,2026-10-15,SYNTHETIC_SIMULATED
+72,Rajeswari Ammal,83,F,E,508,Severe Osteoporosis with Lumbar Vertebral Compression,regular,none,2026-10-04,SYNTHETIC_SIMULATED
+73,Venkataramaiah B,80,M,E,509,Chronic Venous Insufficiency with Stasis Ulcers,diabetic,tree_nuts:mild,2026-10-21,SYNTHETIC_SIMULATED
+74,Saraswathi Natarajan,75,F,E,510,Alzheimers Disease Moderate Stage Feeding Support,soft,none,2026-10-10,SYNTHETIC_SIMULATED
+75,Krishnamoorthy Iyer,84,M,E,511,Benign Senile Tremors with Cervical Spondylosis,soft,gluten:mild,2026-10-27,SYNTHETIC_SIMULATED
+76,Visalakshi C,77,F,E,512,Hypertensive Encephalopathy Convalescence,low-sodium,none,2026-10-16,SYNTHETIC_SIMULATED
+77,Subramaniam V,86,M,E,513,Urinary Tract Sepsis in Geriatric Inpatient,liquid,peanuts:severe,2026-10-05,SYNTHETIC_SIMULATED
+78,Kamala Venkat,79,F,E,514,Pressure Ulcer Stage 3 High Protein Healing Diet,high-protein,none,2026-10-22,SYNTHETIC_SIMULATED
+79,Dr. Madhavan B,64,M,F,601,Neutropenic Sepsis Post-Chemotherapy Induction,high-protein,gluten:moderate,2026-10-11,SYNTHETIC_SIMULATED
+80,Revathi Shankaran,56,F,F,602,Ovarian Carcinoma with Intractable Nausea,liquid,fish:severe,2026-10-28,SYNTHETIC_SIMULATED
+81,Gowtham Chidambaram,41,M,F,603,Severe Deep Dermal Burns 35% BSA Convalescence,high-protein,none,2026-10-17,SYNTHETIC_SIMULATED
+82,Malathi Natarajan,60,F,F,604,Infiltrating Ductal Breast Carcinoma on Paclitaxel,regular,soy:moderate,2026-10-06,SYNTHETIC_SIMULATED
+83,Vijayakumar P,54,M,F,605,Multiple Myeloma with Lytic Bone Lesions,soft,dairy:mild,2026-10-23,SYNTHETIC_SIMULATED
+84,Sumathi Balaji,48,F,F,606,Non-Hodgkins Lymphoma Cycle 3 R-CHOP Care,high-protein,tree_nuts:severe,2026-10-12,SYNTHETIC_SIMULATED
+85,Naveen Kumar K,32,M,F,607,Acute Myeloid Leukemia in Remission Induction,liquid,none,2026-10-01,SYNTHETIC_SIMULATED
+86,Ananthalakshmi S,65,F,F,608,Esophageal Squamous Cell Carcinoma Stented,liquid,peanuts:moderate,2026-10-18,SYNTHETIC_SIMULATED
+87,Mani Kounder,59,M,F,609,Hepatocellular Carcinoma Post-TACE Embolization,soft,shellfish:severe,2026-10-07,SYNTHETIC_SIMULATED
+88,Shyamala Devi,51,F,F,610,Cervical Carcinoma on Radiotherapy Chemotherapy,soft,none,2026-10-24,SYNTHETIC_SIMULATED
+89,Arunachalam P,62,M,F,611,Squamous Cell Carcinoma Buccal Mucosa Post-Glossectomy,liquid,dairy:moderate,2026-10-13,SYNTHETIC_SIMULATED
+90,Vijayalakshmi R,57,F,F,612,Pancreatic Head Adenocarcinoma Palliative Diet,soft,gluten:severe,2026-10-02,SYNTHETIC_SIMULATED
+91,Sivasubramanian K,69,M,F,613,Prostate Adenocarcinoma Bone Metastases Care,regular,none,2026-10-19,SYNTHETIC_SIMULATED
+92,Geethalakshmi N,46,F,F,614,Colon Carcinoma Liver Metastases Supportive Care,diabetic,eggs:moderate,2026-10-08,SYNTHETIC_SIMULATED
+93,Murugesan T,61,M,G,701,Severe Bronchial Asthma with Status Asthmaticus Recovery,regular,sulphites:severe; peanuts:moderate,2026-10-25,SYNTHETIC_SIMULATED
+94,Jayanthi Krishnan,54,F,G,702,Bilateral Bronchopneumonia with Type 1 Respiratory Failure,soft,dairy:mild,2026-10-14,SYNTHETIC_SIMULATED
+95,Palaniswamy K,67,M,G,703,Idiopathic Pulmonary Fibrosis on High-Flow Oxygen,soft,none,2026-10-03,SYNTHETIC_SIMULATED
+96,Renuka Devi,49,F,G,704,Post-Tuberculosis Bronchiectasis with Hemoptysis,high-protein,gluten:moderate,2026-10-20,SYNTHETIC_SIMULATED
+97,Sathyanarayanan V,71,M,G,705,Cor Pulmonale with Secondary Polycythemia,low-sodium,shellfish:severe,2026-10-09,SYNTHETIC_SIMULATED
+98,Lalitha Srinivasan,58,F,G,706,Pleural Effusion Post-Intercostal Drainage Day 3,high-protein,none,2026-10-26,SYNTHETIC_SIMULATED
+99,Chinnathambi M,63,M,G,707,COPD Gold Stage IV with Chronic Hypercapnia,regular,fish:mild,2026-10-15,SYNTHETIC_SIMULATED
+100,Vijayasarathy R,52,M,G,708,Acute Respiratory Distress Syndrome Step-Down,soft,tree_nuts:moderate,2026-10-04,SYNTHETIC_SIMULATED
+101,Bakthavatchalam S,69,M,G,709,Aspiration Pneumonitis in Stroke Patient,liquid,dairy:severe,2026-10-21,SYNTHETIC_SIMULATED
+102,Manonmani K,57,F,G,710,Sarcoidosis with Pulmonary Infiltration,regular,none,2026-10-10,SYNTHETIC_SIMULATED
+103,Jayaprakash N,45,M,G,711,Community Acquired Lobar Pneumonia,high-protein,eggs:mild,2026-10-27,SYNTHETIC_SIMULATED
+104,Sarada Ammal,73,F,G,712,Kyphoscoliosis with Restrictive Lung Disease,soft,none,2026-10-16,SYNTHETIC_SIMULATED
+105,Thangavelu P,66,M,G,713,Occupational Silicosis with Secondary Infection,regular,peanuts:severe,2026-10-05,SYNTHETIC_SIMULATED
+106,Devaki Ramanathan,60,F,G,714,Pulmonary Thromboembolism on Anticoagulation,regular,soy:mild,2026-10-22,SYNTHETIC_SIMULATED
+107,Baby Aarav K,4,M,H,801,Severe Acute Malnutrition with Edema,high-protein,dairy:severe; peanuts:severe,2026-10-11,SYNTHETIC_SIMULATED
+108,Master Kavin S,7,M,H,802,Nephrotic Syndrome Steroid Sensitive First Episode,low-sodium,eggs:moderate,2026-10-28,SYNTHETIC_SIMULATED
+109,Baby Diya M,3,F,H,803,Celiac Disease Presenting with Failure to Thrive,regular,gluten:severe,2026-10-17,SYNTHETIC_SIMULATED
+110,Master Mithran R,9,M,H,804,Type 1 Diabetes Mellitus New Onset DKA Resolved,diabetic,none,2026-10-06,SYNTHETIC_SIMULATED
+111,Baby Nila V,2,F,H,805,Severe Acute Gastroenteritis with Moderate Dehydration,liquid,dairy:mild,2026-10-23,SYNTHETIC_SIMULATED
+112,Master Tharun P,11,M,H,806,Juvenile Idiopathic Arthritis on Methotrexate,regular,tree_nuts:moderate,2026-10-12,SYNTHETIC_SIMULATED
+113,Baby Yazhini K,5,F,H,807,Pediatric Asthma Exacerbation,soft,sulphites:moderate,2026-10-01,SYNTHETIC_SIMULATED
+114,Master Dheepan G,8,M,H,808,Henoch-Schonlein Purpura with Abdominal Pain,soft,none,2026-10-18,SYNTHETIC_SIMULATED
+115,Baby Sanjana R,6,F,H,809,Thalassemia Major on Hypertransfusion Protocol,high-protein,fish:severe,2026-10-07,SYNTHETIC_SIMULATED
+116,Master Pranav B,10,M,H,810,Wilson Disease with Hepatosplenomegaly,renal,shellfish:severe,2026-10-24,SYNTHETIC_SIMULATED
+117,Baby Ananya S,3,F,H,811,Atopic Dermatitis with Poly-Food Allergy,soft,dairy:severe; eggs:severe; peanuts:severe,2026-10-13,SYNTHETIC_SIMULATED
+118,Master Adithya V,12,M,H,812,Pediatric Acute Appendicitis Post-Op Day 1,liquid,none,2026-10-02,SYNTHETIC_SIMULATED
+119,Baby Kanishka T,4,F,H,813,Kawasaki Disease Post-IVIG Therapy,soft,soy:mild,2026-10-19,SYNTHETIC_SIMULATED
+120,Master Sai Charan,8,M,H,814,Febrile Neutropenia in Acute Lymphoblastic Leukemia,liquid,none,2026-10-08,SYNTHETIC_SIMULATED
+121,Baby Roshini P,5,F,H,815,Protein Energy Malnutrition Kwashiorkor Recovery,high-protein,peanuts:moderate,2026-10-25,SYNTHETIC_SIMULATED
+122,Master Siddarth M,9,M,H,816,Chronic Idiopathic Thrombocytopenic Purpura,regular,none,2026-10-14,SYNTHETIC_SIMULATED
