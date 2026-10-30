@@ -5,8 +5,9 @@ services:
     env: python
     region: oregon
     plan: free
-    buildCommand: "pip install -r backend/requirements.txt && python backend/manage.py collectstatic --noinput && python backend/manage.py migrate && python backend/manage.py seed_data"
-    startCommand: "gunicorn --chdir backend hospital_diet.wsgi:application --bind 0.0.0.0:$PORT"
+    rootDir: backend
+    buildCommand: "pip install -r requirements.txt && python manage.py collectstatic --noinput && python manage.py migrate && python manage.py seed_data"
+    startCommand: "gunicorn hospital_diet.wsgi:application --bind 0.0.0.0:$PORT"
     envVars:
       - key: SECRET_KEY
         generateValue: true
@@ -23,10 +24,10 @@ services:
     env: static
     region: oregon
     plan: free
-    buildCommand: "cd frontend && npm install && npm run build"
-    staticPublishPath: "./frontend/dist"
+    rootDir: frontend
+    buildCommand: "npm install && npm run build"
+    staticPublishPath: "./dist"
     routes:
       - type: rewrite
         source: "/*"
         destination: "/index.html"
-
