@@ -22,7 +22,6 @@ services:
   - type: web
     name: hospital-dietary-frontend
     env: static
-    region: oregon
     plan: free
     rootDir: frontend
     buildCommand: "npm install && npm run build"
