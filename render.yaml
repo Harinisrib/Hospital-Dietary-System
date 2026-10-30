@@ -5,7 +5,7 @@ services:
     env: python
     region: oregon
     plan: free
-    buildCommand: "pip install -r backend/requirements.txt && python backend/manage.py collectstatic --noinput && python backend/manage.py migrate"
+    buildCommand: "pip install -r backend/requirements.txt && python backend/manage.py collectstatic --noinput && python backend/manage.py migrate && python backend/manage.py seed_data"
     startCommand: "gunicorn --chdir backend hospital_diet.wsgi:application --bind 0.0.0.0:$PORT"
     envVars:
       - key: SECRET_KEY
@@ -29,3 +29,4 @@ services:
       - type: rewrite
         source: "/*"
         destination: "/index.html"
+
